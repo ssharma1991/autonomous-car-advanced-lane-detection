@@ -1,0 +1,15 @@
+LIST ALL ENVIRONMENTS:
+conda env list
+conda info --envs
+
+LIST ALL PACKAGES IN ACTIVE ENVIRONMENT:
+conda list
+
+UPDATE ALL PACKAGES IN ACTIVE ENVIRONMENT:
+conda update --all
+
+ACTIVATE carnd-term1 ENVIRONMENT:
+conda activate carnd-term1
+
+OPEN JUPYTER INTERFACE:
+Jupyter notebook
