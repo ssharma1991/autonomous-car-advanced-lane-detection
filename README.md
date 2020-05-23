@@ -28,3 +28,6 @@ To find the lane lines on a road, a pipeline consisting of computer vision techn
 The image below displays each step in the pipeline.
 
 <img src="test_images_output/test2_detail.jpg" width="900" title="Image Processing Pipeline"/>
+
+## References
+This project is submitted as partial fulfillment of the Udacity's Self-Driving Car Engineer Nanodegree program. The helper code is available [here](https://github.com/udacity/CarND-Advanced-Lane-Lines).
